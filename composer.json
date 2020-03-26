@@ -1,0 +1,15 @@
+{
+    "name": "jerry/ueditor",
+    "description": "this is for php ueditor",
+    "type": "project",
+    "require": {
+        "php": "5.4"
+    },
+    "license": "no",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "jerry\\": "/"
+        }
+    }
+}
